@@ -1,6 +1,6 @@
 *.pyc
 *~
-__pycache__
+_pycache_
 dev_env
 db.sqlite3
 /static
